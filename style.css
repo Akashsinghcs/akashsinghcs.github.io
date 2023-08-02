@@ -64,8 +64,6 @@ body {
   }
 }
 
-
-
 .section > p {
   text-align: center;
 }
@@ -97,7 +95,7 @@ body {
 }
 
 .footer > div > a {
-  margin-left:20px;
+  margin-left: 20px;
 }
 
 .footer > div > a > img {
